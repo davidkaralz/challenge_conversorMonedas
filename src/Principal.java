@@ -16,7 +16,7 @@ public class Principal {
                         2. Pesos Colombianos a dólares
                         3. Dólares a reales Brasil
                         4. Reales Brasil a dólares
-                        5. Dolares a peso Argentino
+                        5. Dólares a peso Argentino
                         6. Peso Argentino a dólares\s
                         7. Salir\s
                 ************************************""");
